@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/luuxis/ApocaZika-Launcher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=https://github.com/Flyxios/ApocaZika-Launcher/blob/master/ApocaZika.ico"
     },
     "license": "CCANC",
     "nodemonConfig": {
