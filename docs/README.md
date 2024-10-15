@@ -1,4 +1,4 @@
-<p align="center"><img  alt="icon-launcher"></p>
+<p align="center"><img https://github.com/Flyxios/ApocaZika-Launcher/blob/master/ApocaZika.ico alt="icon-launcher"></p>
 
 <h1 align="center">CraftLaunch</h1>
 
