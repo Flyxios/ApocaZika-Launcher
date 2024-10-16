@@ -1,15 +1,15 @@
 {
-    "name": "apocazika-launcher",
-    "productname": "ApocaZikaLauncher",
+    "name": "apoca-launcher",
+    "productname": "ApocaLauncher",
     "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur ApocaZika",
+    "description": "Launcher Mincraft pour les serveurs Apoca",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Flyxios, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://170.39.217.65/?C=N;O=A",
+    "url": "http://170.39.217.65/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
