@@ -1,7 +1,7 @@
 {
     "name": "apoca-launcher",
     "productname": "ApocaLauncher",
-    "version": "1.5.7",
+    "version": "2.0.0",
     "description": "Launcher Mincraft pour les serveurs Apoca",
     "main": "src/app.js",
     "author": {
