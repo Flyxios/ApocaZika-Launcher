@@ -1,15 +1,15 @@
 {
-    "name": "apocazika-launcher",
-    "productname": "ApocaZikaLauncher",
-    "version": "2.5.2",
-    "description": "Launcher Mincraft pour le serveurs ApocaZika",
+    "name": "zuki-adventure",
+    "productname": "Zuki-Adventure",
+    "version": "2.5.3",
+    "description": "Launcher Mincraft pour le serveur Zuki-Adventure",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Flyxios, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://170.39.217.65/ApocaZika",
+    "url": "http://170.39.217.65/Zuki%20Adventure",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
