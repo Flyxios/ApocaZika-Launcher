@@ -1,7 +1,7 @@
 {
-    "name": "zuki-adventure",
-    "productname": "Zuki-Adventure",
-    "version": "3.0.0",
+    "name": "zuki-fleau",
+    "productname": "ZukiFleau",
+    "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur Zuki-Adventure",
     "main": "src/app.js",
     "author": {
