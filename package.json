@@ -1,7 +1,7 @@
 {
     "name": "zuki-fleau",
     "productname": "ZukiFleau",
-    "version": "6.0.0",
+    "version": "7.0.0",
     "description": "Launcher Mincraft pour le serveur Zuki-Adventure",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://node01.zuki-fleau.com:8753/%2FZukiAdventure",
+    "url": "http://node01.zuki-fleau.com:8754/ZukiAdventure",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
